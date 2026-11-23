@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Mohammad Sahil Feroz - Web Design and Development Student",
+    "description": "I'm a web design and development student in Edmonton, Alberta, learning to build clean, friendly websites. Right now I'm working with JavaScript, React, Next.js, HTML and CSS.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,40 +11,34 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Mohammad Sahil Feroz",
+    "jobTitle": "Web Design and Development Student",
+    "worksFor": "NAIT",
+    "location": "Edmonton, Alberta",
+    "countryCode": "CA",
+    "nationality": "Canada",
+    "publisherName": "Mohammad Sahil Feroz",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/mohammad-sahil-feroz-277495322/",
+      "https://github.com/sahil009uhjjb"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Mohammad Sahil Feroz",
+    "summary": "a web design and development student who loves turning ideas into clean, easy-to-use websites",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/sahil009uhjjb"
       },
       {
         "ariaLabel": "linkedin profile",
-        "screenReaderLabel": "Linkedin Profile",
+        "screenReaderLabel": "LinkedIn Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/mohammad-sahil-feroz-277495322/"
       }
     ],
     "supportLink": {
@@ -54,42 +48,38 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "portrait of Mohammad Sahil Feroz"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Mohammad Sahil, a web design and development student from Edmonton, Alberta.",
+    "toolsIntro": "The tools I'm using and learning right now:",
     "tools": [
+      "HTML",
+      "CSS",
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Next.js",
+      "Git and GitHub"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I'm still early in my journey, but I really enjoy seeing something I coded show up in the browser. I like figuring out how a page should look and feel for the person using it.",
+    "approach": "I take things one step at a time, test as I go, and ask questions when I'm stuck. My goal is to keep learning and write code that other people can read and trust."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "sahilferoz069@gmail.com",
+    "location": "Edmonton, Alberta",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
-        "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mohammad-sahil-feroz-277495322/"
       },
       {
-        "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "GitHub",
+        "url": "https://github.com/sahil009uhjjb"
       }
     ]
   },
@@ -101,7 +91,7 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently studying Web Design and Development"
   },
   "sections": {
     "schoolAssignment": {
